@@ -1,6 +1,6 @@
-# ersinkalafat-reactnative
+# React Native Basic E-Commerce App Sample
+
 I used redux, axios, jest, typescript, react navigation and react native
-(category data part could be solved with common component, but I wanted to show you my redux usage.)
 
 ##
 
